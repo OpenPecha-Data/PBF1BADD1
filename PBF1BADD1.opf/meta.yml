@@ -1,0 +1,182 @@
+id: PBF1BADD1
+initial_creation_type: input
+source_metadata:
+  title: Dilgo Khyentse Rinpoche Series
+  language: en
+  description: 'Texts by and about Kyabje Dilgo Khyentse Rinpoche, Tashi Paljor (dil
+    mgo mkhyen brtse bkra shis dpal ''byor, 1910-1991):'
+  volume:
+    0ad4c0ed7f624ba483317eff6a434642:
+      title: Advice to Three-Year Retreatants
+      parent: Advice
+    b1449ec3995842fa8d64af70d9a31bad:
+      title: Heart Advice in Four Lines
+      parent: Advice
+    ccf3a95a2dd5494c89e115bf5f8422a9:
+      title: Letter of Advice to Jamyang Gyaltsen
+      parent: Advice
+    4a0ba8f4ab344eb4b9ef495c1259859a:
+      title: A Prayer for the Spread of Kyabje Dilgo Khyentse Rinpoche’s Termas
+      parent: Aspiration Prayers
+    72171a4681d749da92c6c538876662fc:
+      title: 'The Blissful Path to the Ocean of Bodhichitta: A Brief Prayer of Aspiration
+        for Mind Training'
+      parent: Aspiration Prayers
+    4166222908f44e6faa8dd51dd08d3c9d:
+      title: 'The Vidyādharas'' Words of Truth: An Aspiration Connected with the Stages
+        of the Path of the Three Roots, from the Heart Essence of the Vast Expanse'
+      parent: Aspiration Prayers
+    5c785469e8e54598a9ce9895030a5c64:
+      title: 'Wisdom''s Melody: An Aspiration to Realize Madhyamaka, Mahāmudrā, and
+        Mahā Ati'
+      parent: Aspiration Prayers
+    d15069ea23844f779f4635638bca30d2:
+      title: 'Wondrous Light of Lunar Nectar: The Biography of Chatral Kunga Palden,
+        a Yogin of the Supreme Vehicle'
+      parent: Biographies
+    3e52123129da43398ef34deea8af3420:
+      title: Calling the Guru From Afar
+      parent: Calling the Guru from Afar
+    3e179c210ccc4b08b1524591d9f5590e:
+      title: Calling the Guru from Afar
+      parent: Calling the Guru from Afar
+    268c8af49f6042ef845e2b4eafb673ce:
+      title: 'Nectar Shower of Blessings: A Song of Yearning Devotion Recalling the
+        Everpresent Gurus'
+      parent: Calling the Guru from Afar
+    e04f5b362bd340d5b562d9df2705afe4:
+      title: 'Repository of Every Form of Dharma That Might Be Wished For: A Catalogue
+        to the Published Miscellaneous Writings of the Venerable Guru Jamyang Chökyi
+        Lodrö'
+      parent: Catalogues
+    081aed3f358b422fa85d6ab410988857:
+      title: Concise Offering of the Body from the Root Text of the Heart Accomplishment
+        of the Guru Tukdrup, The Essential Manual of Oral Instructions (Shaldam Nyingjang)
+      parent: Chöd
+    c29440ed45ae4412b3e52d2baebf2efa:
+      title: 'The Sage who Dispels Mind’s Anguish: Advice from the Guru, the Gentle
+        Protector Mañjuśrī on the Means of Accomplishing the Yogas of Śamatha and
+        Vipaśyanā'
+      parent: Commentaries
+    9163b5fca90d45c0a096da62f8d9af95:
+      title: 'Shower of Indestructible Splendour: A Self-Initiation for the Guru Practice
+        of the Vidyādhara Assembly, from the Heart-Essence of the Vast Expanse'
+      parent: Empowerment Rites
+    86d689d0c7724569b024de28b037e6c5:
+      title: 'A Garland of Vajra Words: A Prayer to the Guru'
+      parent: Guru Rinpoche Prayers
+    fda3e0834a574b09adf2f06f071b04f1:
+      title: 'All Wishes Swiftly Fulfilled: A Prayer to the Mahāguru of Uḍḍiyāna in
+        Eight Chapters'
+      parent: Guru Rinpoche Prayers
+    70cc0522be4848518a99c091c749f056:
+      title: Guru Yoga – A Rang Rig Ma Chö
+      parent: Guru Yoga
+    160c06a6e64b4421b32e04de574ad1f1:
+      title: 'Guru Yoga: The Complete Path of Sūtra And Tantra'
+      parent: Guru Yoga
+    423cc6b0769b4e6d9df76cd753e68cd6:
+      title: 'The Quintessence of the Profound Path: A Concise Guide to the Stages
+        of Visualization for the Guru Yoga of the Seven-Line Supplication, A Shower
+        of Blessings'
+      parent: Guru Yoga
+    03751afee81f40cdaa9c8cb9c5b3218d:
+      title: 'The Sun of Ambrosial Wisdom: A Guru Yoga of Dharmarāja Sakya Paṇḍita'
+      parent: Guru Yoga
+    547db68135c3488c88e8ec61fcd18219:
+      title: A History of Dzongsar Monastery
+      parent: History
+    91dbad3a1b094dbaaed4ac0bf2bb079c:
+      title: 'Beautiful Clouds of Blessings: A Prayer to the Lineage Masters of the
+        Heart Essence of the Vast Expanse from the Great Perfection'
+      parent: Lineage Prayers
+    71254fffba334ee89f478c6362ab176c:
+      title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+      parent: Lineage Prayers
+    75d67f9be28d4300b9d9b5bdfccf6de1:
+      title: Supplication to the Lineage of the Heart Essence of the Vast Expanse
+      parent: Lineage Prayers
+    9876b7bb76f249388c12f653aee9a754:
+      title: 'Vajrakīla Prayer: A Rain of Accomplishments'
+      parent: Lineage Prayers
+    91c3b0890c1844559fa82e26d96f3a1b:
+      title: Ambrosia for the Mind
+      parent: Lojong
+    75a8af2126f54308ae846d70521a0b4e:
+      title: Prayer for the Long Life of Dzongsar Jamyang Khyentse Rinpoche
+      parent: Long Life Prayers
+    836e7f82c7cf42ba80542e5bc85e69f8:
+      title: Prayer for the Long Life of Shechen Rabjam Rinpoche
+      parent: Long Life Prayers
+    91606b2d584b4eea94cbcc918f816a74:
+      title: 'The Vajra Sitar of Immortality: A Prayer for the Long Life of the Fourth
+        Incarnation of Terchen Chokgyur Lingpa'
+      parent: Long Life Prayers
+    5cccce3a6c6a4d0dba1053e98f84ec83:
+      title: 'True Words to Accomplish Immortality: A Longevity Prayer to the Tulku
+        of Jamyang Khyentse, Thupten Chökyi Gyatso'
+      parent: Long Life Prayers
+    2aa6d02729844f1cae97bfa5d1b157ee:
+      title: A Prayer to Dilgo Khyentse Rinpoche
+      parent: Prayers
+    dd309587e78f437787367592c7473f28:
+      title: A Prayer to Kyabje Dilgo Khyentse Rinpoche
+      parent: Prayers
+    f85e1593bac041ce9eeef12db28bd29a:
+      title: Invocation of the Vidyādhara Gurus
+      parent: Prayers
+    84b8f32ce61345d2bee4bd277ade5de0:
+      title: 'Light of Compassion: A Prayer to the Wisdom Ḍākinīs'
+      parent: Prayers
+    f8c8c8abf39546f7895362d3150835d3:
+      title: Prayer for the Fulfilment of Aspirations
+      parent: Prayers
+    f3d00d0c774941368b03c49d6e7bef01:
+      title: Prayer to Khandro Tsering Chödrön
+      parent: Prayers
+    40784449dc044903a93aa762e1ca1ff5:
+      title: 'The Lotus of Faith: A Supplication to the Successive Lives of Shechen
+        Rabjam'
+      parent: Prayers
+    040b95bcc1864df8a63098a24e27ea93:
+      title: 'The Potent Nectar of Accomplishment: A Prayer and Supplication to the
+        Vidyādhara Gurus of the Three Lineages'
+      parent: Prayers
+    0f45691181154c2f98a3c7200599bce4:
+      title: The Prayer to Swiftly Fulfil All Wishes
+      parent: Prayers
+    e1218ffcaac34c5f8510d8911b84eb47:
+      title: 'The Precious Jewel Essence: A Prayer of the Four Dharmas'
+      parent: Prayers
+    dc9d989efe4b4ae48c91b45a123f5414:
+      title: 'The Quintessence of Marvellous Nectar: A Prayer Based on the Liberational
+        Life of the Gentle Protector Guru'
+      parent: Prayers
+    e1b66f079f7c4adbae75f8fe4431472d:
+      title: 'The Swift Bestowal of Blessings: A Prayer to the Glorious Protector
+        Guru'
+      parent: Prayers
+    610d471e065d4f89933ea1c446c777e0:
+      title: A Sādhana of Golden Mañjughoṣa
+      parent: Sādhanas
+    5d08ab2f662146deb0247680f05e44ec:
+      title: A Sādhana of Tārā Sarasvatī
+      parent: Sādhanas
+    53fc6a8c17f6489aad5a9e39a1c185c3:
+      title: Concise Daily Practice of Vajrasattva
+      parent: Sādhanas
+    f212a9fe50cc4eca82e7ee477ffa835b:
+      title: Daily Practice of Guru Rinpoche, Buddha of Medicine
+      parent: Sādhanas
+    0338f1af82a746c594c16a29d979c5f0:
+      title: 'The Refined Essence of Compassion: A Daily Sādhana for the Natural Liberation
+        of Suffering, the Secret Practice of the Great Compassionate One'
+      parent: Sādhanas
+    f268967c27334be2983f55bf68a93ee9:
+      title: Lamenting Prayer to Jamyang Chökyi Lodrö
+      parent: Swift Rebirth Prayers
+    5bb70efee2154e3abac5bf70e2dd8f8d:
+      title: 'Bestowing the Glory of Wisdom: A Gaṇacakra Feast for Nyingtik Saldrön'
+      parent: Tsok Offering
+created_at: '2022-02-28T22:53:20.371721'
+last_modified_at: '2022-02-28T22:53:20.371727'
